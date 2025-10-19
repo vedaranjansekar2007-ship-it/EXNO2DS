@@ -152,4 +152,4 @@ for col in numeric_cols:
 
 
 # RESULT
-        <<INCLUDE YOUR RESULT HERE>>
+        we performed exploratory data analysis on the given data set 
